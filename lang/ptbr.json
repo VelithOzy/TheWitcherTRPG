@@ -195,7 +195,7 @@
     "WITCHER.Actor.DerStat.Kick": "Chute",
     
     "WITCHER.Actor.Initiative": "Iniciativa",
-    "WITCHER.Actor.SavingThrow": "T. Resistência",
+    "WITCHER.Actor.SavingThrow": "ATORD/MORTE",
     "WITCHER.Actor.Crit/Fumble": "Crit/Vacil",
     "WITCHER.Actor.Defense": "Defesa",
     "WITCHER.Actor.Adrenaline": "Adrenalina",
@@ -220,7 +220,7 @@
     "WITCHER.CritWound.Deadly": "Mortal",
 
     "WITCHER.CritWound.None": "Nenhuma",
-    "WITCHER.CritWound.Stabilized": "Esbailizado",
+    "WITCHER.CritWound.Stabilized": "Estabilizado",
     "WITCHER.CritWound.Treated": "Tratado",
 
     "WITCHER.CritWound.Name.SimpleCrackedJaw": "Mandíbula Trincada",
@@ -272,7 +272,7 @@
     "WITCHER.CritWound.DeadlyDecapitated": "O golpe quebra seu pescoço ou separa a cabeça dos ombros.",
     "WITCHER.CritWound.DeadlyDamagedEye": "O golpe corta ou recua seu globo ocular.",
     "WITCHER.CritWound.DeadlyHearthDamage": "O golpe danifica seu coração.",
-    "WITCHER.CritWound.DeadlySepticShock": "TO golpe danifica seus intestinos, deixando resíduo entrar na corrente sanguínea.",
+    "WITCHER.CritWound.DeadlySepticShock": "O golpe danifica seus intestinos, deixando resíduo entrar na corrente sanguínea.",
     "WITCHER.CritWound.DeadlyDismemberedArm": "O golpe arranca seu braço do seu corpo ou o danifica além do reparo.",
     "WITCHER.CritWound.DeadlyDismemberedLeg": "O golpe arranca sua perna do seu corpo ou o danifica além do reparo.",
 
@@ -435,8 +435,8 @@
     "WITCHER.Event": "Evento",
     "WITCHER.DeathSave": "Save de STUN/MORTE",
 	
-    "WITCHER.Crit": "Critical",
-    "WITCHER.Fumble": "Fumble",
+    "WITCHER.Crit": "Crítico",
+    "WITCHER.Fumble": "Vacilo",
 
     "WITCHER.table.Quantity": "Qtd",
     "WITCHER.table.Range": "ALC",
